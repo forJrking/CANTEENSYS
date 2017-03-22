@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#2196F3</color>
+    <color name="colorAccent">#606060</color>
+    <color name="titlecolor">#303030</color>
+    <color name="sp_background">#23ACC1</color>
+    <color name="trans">#ffffffff</color>
+    <color name="half">#59000000</color>
+</resources>

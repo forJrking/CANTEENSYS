@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Workspace\\DRS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_activity.xml",
+        "source": "D:\\Workspace\\DRS\\app\\src\\main\\res\\layout\\login_activity.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\DRS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register_activity.xml",
+        "source": "D:\\Workspace\\DRS\\app\\src\\main\\res\\layout\\register_activity.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\DRS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_activity.xml",
+        "source": "D:\\Workspace\\DRS\\app\\src\\main\\res\\layout\\main_activity.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\DRS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_activity.xml",
+        "source": "D:\\Workspace\\DRS\\app\\src\\main\\res\\layout\\list_activity.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\DRS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\shopfragment.xml",
+        "source": "D:\\Workspace\\DRS\\app\\src\\main\\res\\layout\\shopfragment.xml"
+    }
+]

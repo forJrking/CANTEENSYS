@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Workspace\\DRS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\psswd_iocn.png",
+        "source": "D:\\Workspace\\DRS\\app\\src\\main\\res\\drawable-xhdpi\\psswd_iocn.png"
+    },
+    {
+        "merged": "D:\\Workspace\\DRS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\goback.png",
+        "source": "D:\\Workspace\\DRS\\app\\src\\main\\res\\drawable-xhdpi\\goback.png"
+    },
+    {
+        "merged": "D:\\Workspace\\DRS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\Workspace\\DRS\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Workspace\\DRS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\user_iocn.png",
+        "source": "D:\\Workspace\\DRS\\app\\src\\main\\res\\drawable-xhdpi\\user_iocn.png"
+    }
+]

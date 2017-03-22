@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Workspace\\DRS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shop_item_bg.xml",
+        "source": "D:\\Workspace\\DRS\\app\\src\\main\\res\\drawable\\shop_item_bg.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\DRS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_shape.xml",
+        "source": "D:\\Workspace\\DRS\\app\\src\\main\\res\\drawable\\login_shape.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\DRS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_shape.xml",
+        "source": "D:\\Workspace\\DRS\\app\\src\\main\\res\\drawable\\edit_shape.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\DRS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sp_bg.xml",
+        "source": "D:\\Workspace\\DRS\\app\\src\\main\\res\\drawable\\sp_bg.xml"
+    }
+]

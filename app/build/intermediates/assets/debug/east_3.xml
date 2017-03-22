@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shops>
+<shop>
+    <name>吉祥馄饨</name>
+    <adImg>east_3_jxht</adImg>
+    <phone>18310190948</phone>
+    <cookbooks>
+        <cookbook>
+            <cookmenu>馄饨</cookmenu>
+            <cooks>
+                <cook>
+                    <cookname>虾仁三鲜馄饨</cookname>
+                    <price>18元</price>
+                </cook>
+                <cook>
+                    <cookname>蟹黄鲜肉馄饨</cookname>
+                    <price>15元</price>
+                </cook>
+                <cook>
+                    <cookname>荠菜虾仁鲜肉馄饨</cookname>
+                    <price>12元</price>
+                </cook>
+                <cook>
+                    <cookname>纯肉大馄饨</cookname>
+                    <price>12元</price>
+                </cook>
+                <cook>
+                    <cookname>香菇鲜肉馄饨</cookname>
+                    <price>10元</price>
+                </cook>
+                <cook>
+                    <cookname>素三鲜馄饨</cookname>
+                    <price>10元</price>
+                </cook>
+                <cook>
+                    <cookname>牛肉鲜肉馄饨</cookname>
+                    <price>12元</price>
+                </cook>
+                <cook>
+                    <cookname>皮皮虾鲜肉馄饨</cookname>
+                    <price>12元</price>
+                </cook>
+                <cook>
+                    <cookname>虾仁鲜肉馄饨</cookname>
+                    <price>10元</price>
+                </cook>
+                <cook>
+                    <cookname>茴香鲜肉馄饨</cookname>
+                    <price>10元</price>
+                </cook>
+                <cook>
+                    <cookname>韭菜鲜肉馄饨</cookname>
+                    <price>10元</price>
+                </cook>
+                <cook>
+                    <cookname>石锅馄饨</cookname>
+                    <price>18元</price>
+                </cook>
+                <cook>
+                    <cookname>蟹肉鲜肉馄饨</cookname>
+                    <price>16元</price>
+                </cook>
+            </cooks>
+        </cookbook>
+
+        <cookbook>
+            <cookmenu>期待新品</cookmenu>
+            <cooks>
+                <cook>
+                    <cookname>纯肉大馄饨</cookname>
+                    <price>xx</price>
+                </cook>
+                <cook>
+                    <cookname>我们去探险</cookname>
+                    <price>xx</price>
+                </cook>
+
+            </cooks>
+        </cookbook>
+
+    </cookbooks>
+</shop>
+<shop>
+    <name>海南鸡饭</name>
+    <adImg>east_3_hnjf</adImg>
+    <phone>15600810395</phone>
+    <cookbooks>
+        <cookbook>
+            <cookmenu>饭</cookmenu>
+            <cooks>
+                <cook>
+                    <cookname>招牌韩式烤肉饭</cookname>
+                    <price>12元</price>
+                </cook>
+                <cook>
+                    <cookname>烧烤土豆饭</cookname>
+                    <price>11元</price>
+                </cook>
+                <cook>
+                    <cookname>酱爆香菇鸡肉饭</cookname>
+                    <price>13元</price>
+                </cook>
+                <cook>
+                    <cookname>咖喱香菇鸡肉饭</cookname>
+                    <price>14元</price>
+                </cook>
+                <cook>
+                    <cookname>板烧鲜椒肥牛饭</cookname>
+                    <price>14元</price>
+                </cook>
+                <cook>
+                    <cookname>怪味烧汁鸡排饭</cookname>
+                    <price>13元</price>
+                </cook>
+                <cook>
+                    <cookname>酱烤/沙拉奥尔良鸡腿饭</cookname>
+                    <price>14元</price>
+                </cook>
+                <cook>
+                    <cookname>口水鸡饭</cookname>
+                    <price>15元</price>
+                </cook>
+                <cook>
+                    <cookname>海南鸡饭</cookname>
+                    <price>15元</price>
+                </cook>
+            </cooks>
+        </cookbook>
+
+        <cookbook>
+            <cookmenu>甜品</cookmenu>
+            <cooks>
+                <cook>
+                    <cookname>冰粉（原味）</cookname>
+                    <price>7元</price>
+                </cook>
+                <cook>
+                    <cookname>冰粉（奶香芒果）</cookname>
+                    <price>8元</price>
+                </cook>
+
+            </cooks>
+        </cookbook>
+
+
+    </cookbooks>
+</shop>
+</shops>
